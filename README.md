@@ -1,54 +1,64 @@
-# Muhammad Riaz
+<h1 align="center">Muhammad Riaz</h1>
 
-Mobile Hardware Repair Technician (Diagnostics) | SDR Setup using OpenWebRX | RF Signal Monitoring
+<p align="center">
+Mobile Hardware Repair Technician (Diagnostics) • SDR Setup • RF Signal Monitoring
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Hardware_+_SDR-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-OpenWebRX-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Linux-green?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🔧 What I Do
-
-- Mobile phone hardware diagnostics & repair (board-level)
-- Fault tracing, component testing, and repair workflows
-- SDR (Software Defined Radio) setup and configuration
-- Radio signal monitoring using OpenWebRX
+- Board-level mobile hardware diagnostics & repair  
+- Fault tracing, component testing, real repair workflows  
+- SDR setup and configuration  
+- RF signal monitoring using OpenWebRX  
 
 ---
 
 ## 📡 SDR & Radio Work
-
-- Setting up and running OpenWebRX
-- Monitoring live RF signals and radio frequencies
-- Exploring wireless communication systems
-- Working with SDR tools and signal environments
+- Setup and deployment of OpenWebRX environments  
+- Live RF signal monitoring and frequency tracking  
+- Practical exploration of wireless communication systems  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 **Hardware**
-- Multimeter
-- Soldering tools
-- PCB diagnostics
+- Multimeter  
+- Soldering tools  
+- PCB diagnostics  
 
-**Software / SDR**
-- OpenWebRX
-- Linux (WSL / Ubuntu)
-- Basic networking & system setup
+**Software**
+- OpenWebRX  
+- Linux (WSL / Ubuntu)  
+- Networking basics  
 
 ---
 
-## 🚧 Current Focus
+## 🚀 Projects
+- OpenWebRX Setup & Configuration  
+- SDR Signal Monitoring Setup  
+- Mobile Repair Case Studies  
 
-- Improving SDR setup and optimization
-- Understanding RF signal behavior in real environments
-- Combining hardware repair knowledge with wireless systems
+---
+
+## 🎯 Current Focus
+- SDR optimization & performance tuning  
+- Real-world RF signal behavior  
+- Combining hardware repair with wireless systems  
 
 ---
 
 ## 📍 Location
-Sindh, Pakistan
+Sindh, Pakistan  
 
 ---
 
 ## 📫 Contact
-
 - GitHub: https://github.com/riazahmed55
